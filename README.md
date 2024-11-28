@@ -6,8 +6,10 @@
 В этом репозитории я сохраняю свои работы в ходе прохождения курса [nand2tetris](https://www.nand2tetris.org)
 
 Курс состоит из двух частей, в первой части 6 проектов:
-- [Project 1: Boolean Logic](./1_Boolean_Arithmetic) - создание 
-- Project 2: Boolean Arithmetic
+- [Project 1: Boolean Logic](./Assignments/1_Boolean_Logic)
+    > Реализация [NAND-логики](https://en.wikipedia.org/wiki/NAND_logic), то есть создание основных логических блоков (AND, OR, NOT, XOR, MUX, DMUX, а так же их версий для работы с 16-битной шиной) с помощью операции NAND ([И-НЕ или Штрих Шеффера](https://ru.wikipedia.org/wiki/Штрих_Шеффера))
+- [Project 2: Boolean Arithmetic](./Assignments/2_Boolean_Arithmetic/)
+    > Создание [простого арифметико-логического устройства (ALU)](./Assignments/2_Boolean_Arithmetic/ALU.hdl), способного складывать и вычитать 16-битные числа с помощью логических блоков из первого проекта
 - Project 3: Memory
 - Project 4: Machine Language
 - Project 5: Computer Architecture
