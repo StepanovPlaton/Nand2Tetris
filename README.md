@@ -9,7 +9,7 @@
 - [Project 1: Boolean Logic](./Assignments/1_Boolean_Logic)
     > Реализация [NAND-логики](https://en.wikipedia.org/wiki/NAND_logic), то есть создание основных логических блоков (AND, OR, NOT, XOR, MUX, DMUX, а так же их версий для работы с 16-битной шиной) с помощью операции NAND ([И-НЕ или Штрих Шеффера](https://ru.wikipedia.org/wiki/Штрих_Шеффера))
 - [Project 2: Boolean Arithmetic](./Assignments/2_Boolean_Arithmetic/)
-    > Создание [простого арифметико-логического устройства (ALU)](./Assignments/2_Boolean_Arithmetic/ALU.hdl), способного складывать и вычитать 16-битные числа с помощью логических блоков из первого проекта
+    > Создание [простого арифметико-логического устройства (ALU)](./Assignments/2_Boolean_Arithmetic/ALU.hdl) с помощью логических блоков из первого проекта, способного складывать и вычитать 16-битные числа
 - Project 3: Memory
 - Project 4: Machine Language
 - Project 5: Computer Architecture
