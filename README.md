@@ -15,7 +15,8 @@
     > Вводим единицу времени - такт, за счёт чего появляется текущее и следующее состояние, которое можно запоминать и изменять. Создаём простейшую память. На основе DFF компонента создаём [однобитный регистр](./Assignments/3_Sequential_Logic/Bit.hdl), затем [16-битный регистр](./Assignments/3_Sequential_Logic/Register.hdl), из них собираем блоки оперативной памяти ([RAM8](./Assignments/3_Sequential_Logic/RAM8.hdl), [RAM64](./Assignments/3_Sequential_Logic/RAM64.hdl), [RAM512](./Assignments/3_Sequential_Logic/RAM512.hdl), [RAM4K](./Assignments/3_Sequential_Logic/RAM4K.hdl), [RAM16K](./Assignments/3_Sequential_Logic/RAM16K.hdl)), а так же создаём простой [счётчик](./Assignments/3_Sequential_Logic/PC.hdl), который может использоваться для хранения текущей выполняемой инструкции и перехода к новой инструкции
   - [Project 4: Machine Language](./Assignments/4_Machine_Language/)
     > Разбираемся с тем, что такое машинный код и как компьютер выполняет комманды записанные с его помощью. Вводим понятие ассемблера, и изучаем язык ассемблера для создаваемой платформы. [Пишем пару простых программ](./Assignments/4_Machine_Language/), в том числе [реализуем простое чтение данных с клавиатуры и вывод картинки на эмулятор экрана](./Assignments/4_Machine_Language/Fill.asm)
-  - Project 5: Computer Architecture
+  - [Project 5: Computer Architecture](./Assignments/5_Computer_Architecture/)
+    > Завершаем работу над аппаратной составляющей компьютера. [Собираем модуль памяти](./Assignments/5_Computer_Architecture/Memory.hdl), позволяющий, в том числе, взаимодействовать с клавиатурой и экраном. [Собираем ЦПУ](./Assignments/5_Computer_Architecture/CPU.hdl) из ранее созданных ALU, счётчика и регистров. Из памяти, ЦПУ и чипа ROM с набором инструкций [собираем компьютер Hack](./Assignments/5_Computer_Architecture/Computer.hdl)
   - Project 6: Assembler
 - #### Software
   - Project 7: VM I: Stack Arithmetic
