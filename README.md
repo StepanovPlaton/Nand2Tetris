@@ -17,8 +17,8 @@
     > Разбираемся с тем, что такое машинный код и как компьютер выполняет комманды записанные с его помощью. Вводим понятие ассемблера, и изучаем язык ассемблера для создаваемой платформы. [Пишем пару простых программ](./Assignments/4_Machine_Language/), в том числе [реализуем простое чтение данных с клавиатуры и вывод картинки на эмулятор экрана](./Assignments/4_Machine_Language/Fill.asm)
   - [Project 5: Computer Architecture](./Assignments/5_Computer_Architecture/)
     > Завершаем работу над аппаратной составляющей компьютера. [Собираем модуль памяти](./Assignments/5_Computer_Architecture/Memory.hdl), позволяющий, в том числе, взаимодействовать с клавиатурой и экраном. [Собираем ЦПУ](./Assignments/5_Computer_Architecture/CPU.hdl) из ранее созданных ALU, счётчика и регистров. Из памяти, ЦПУ и чипа ROM с набором инструкций [собираем компьютер Hack](./Assignments/5_Computer_Architecture/Computer.hdl)
-  - Project 6: Assembler
 - #### Software
+  - Project 6: Assembler
   - Project 7: VM I: Stack Arithmetic
   - Project 8: VM II: Program Control
   - Project 9: High-Level Language
