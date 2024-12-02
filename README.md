@@ -1,9 +1,16 @@
 # [Nand2Tetris](https://www.nand2tetris.org)
     From Nand to Tetris
+    The Elements of Computing Systems
     Building a Modern Computer From First Principles
     By Noam Nisan and Shimon Schocken (MIT Press)
 
-В этом репозитории я сохраняю свои работы в ходе прохождения курса [Nand2tetris](https://www.nand2tetris.org)
+В этом репозитории я сохраняю свои работы в ходе прохождения курса [Nand2tetris](https://www.nand2tetris.org), основанного на книге [The Elements of Computing Systems: Building a Modern Computer From First Principles](https://cmls-global.com/wp-content/uploads/2021/08/The-elements-of-computing-systems-building-a-modern-computer.pdf), в рамках которого мы с нуля создадим 16-битный компьютер, способный запустить тетрис. Спасибо [Ноаму Нисану](http://www.cs.huji.ac.il/~noam/) и [Шимону Шокену](http://www.shimonschocken.com/) за понятную и интересную книгу, а главное за крутейшие лабораторные работы!
+
+> ### Я услышал и забыл. Я увидел и запомнил. Я сделал и понял
+> 
+> Конфуций
+
+---
 
 ### Программа курса с моим описанием содержания каждой главы:
 - #### Hardware
