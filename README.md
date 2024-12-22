@@ -27,7 +27,8 @@
 - #### **Software**
   - **[Project 6: Assembler](./Assignments/6_Assembler/)**
     > На практике изучаем как язык ассемблера компилируется в двоичный код, [создавая ассемблер для компьютера Hack](./Assignments/6_Assembler/assembler.py)
-  - Project 7: VM I: Stack Arithmetic
+  - **[Project 7: VM I: Stack Arithmetic](./Assignments/7_Virtual_Machine_I_Stack_Arithmetic/)**
+    > Начинаем создание виртуальной машины ([транслятора с языка виртаульной машины на язык ассемблера](./Assignments/7_Virtual_Machine_I_Stack_Arithmetic/vmtranslator.py)). Пишем трансляцию для операций доступа к виртуальным сегментам памяти и стэковую арифметику
   - Project 8: VM II: Program Control
   - Project 9: High-Level Language
   - Project 10: Compiler I: Syntax Analysis
